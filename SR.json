@@ -1,12 +1,4 @@
 {
-  "forceUpdate": {
-    "versions": ["1.0.0"],
-    "title": "Update Required",
-    "description": "This version is no longer supported. Please update the app from the App Store.",
-    "downloadUrl": "https://example.com/app-download-v1.2.0",
-    "releaseDate": "2025-07-21"
-
-  },
   "normalUpdate": {
     "version": "1.2.0",
     "description": "We’ve made some exciting changes!",
